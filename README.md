@@ -25,4 +25,4 @@ This is exactly how many real-world platforms handle uploads like:
 - Integrating AWS services
 
 ## 📸 S3 Upload Proof
-Screenshot 2026-02-28 015258.png
+![S3 Upload](s3-upload-proof.png)
