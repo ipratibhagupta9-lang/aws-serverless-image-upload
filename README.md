@@ -23,3 +23,6 @@ This is exactly how many real-world platforms handle uploads like:
 - Handling file uploads in cloud
 - IAM permission management
 - Integrating AWS services
+
+## 📸 S3 Upload Proof
+![S3 Upload Proof](s3-upload-proof.png)
